@@ -1,4 +1,4 @@
-# Telco Churn Save Agent
+# Telco Marketing Ops Churn Save Agentic (Multi Agent) System
 
 This project is a technology, media, and telecom agentic AI prototype for churn-save decisioning. It demonstrates how a policy-first multi-agent workflow can help a retention team choose a commercially defensible save action for at-risk subscribers.
 
